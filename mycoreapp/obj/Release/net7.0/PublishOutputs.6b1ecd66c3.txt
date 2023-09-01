@@ -1,0 +1,7 @@
+C:\Users\ennie\Desktop\Integrify Assignments\Cloud\mycoreapp\mycoreapp\bin\Release\net7.0\publish\mycoreapp.exe
+C:\Users\ennie\Desktop\Integrify Assignments\Cloud\mycoreapp\mycoreapp\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\ennie\Desktop\Integrify Assignments\Cloud\mycoreapp\mycoreapp\bin\Release\net7.0\publish\appsettings.json
+C:\Users\ennie\Desktop\Integrify Assignments\Cloud\mycoreapp\mycoreapp\bin\Release\net7.0\publish\mycoreapp.dll
+C:\Users\ennie\Desktop\Integrify Assignments\Cloud\mycoreapp\mycoreapp\bin\Release\net7.0\publish\mycoreapp.deps.json
+C:\Users\ennie\Desktop\Integrify Assignments\Cloud\mycoreapp\mycoreapp\bin\Release\net7.0\publish\mycoreapp.runtimeconfig.json
+C:\Users\ennie\Desktop\Integrify Assignments\Cloud\mycoreapp\mycoreapp\bin\Release\net7.0\publish\mycoreapp.pdb

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj": {}
+    "C:\\Users\\ennie\\Desktop\\Integrify Assignments\\Cloud\\mycoreapp\\mycoreapp\\mycoreapp.csproj": {}
   },
   "projects": {
-    "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj": {
+    "C:\\Users\\ennie\\Desktop\\Integrify Assignments\\Cloud\\mycoreapp\\mycoreapp\\mycoreapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj",
+        "projectUniqueName": "C:\\Users\\ennie\\Desktop\\Integrify Assignments\\Cloud\\mycoreapp\\mycoreapp\\mycoreapp.csproj",
         "projectName": "mycoreapp",
-        "projectPath": "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj",
-        "packagesPath": "/Users/sangamdeuja/.nuget/packages/",
-        "outputPath": "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/obj/",
+        "projectPath": "C:\\Users\\ennie\\Desktop\\Integrify Assignments\\Cloud\\mycoreapp\\mycoreapp\\mycoreapp.csproj",
+        "packagesPath": "C:\\Users\\ennie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ennie\\Desktop\\Integrify Assignments\\Cloud\\mycoreapp\\mycoreapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sangamdeuja/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ennie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
